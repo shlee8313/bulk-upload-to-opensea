@@ -1,3 +1,6 @@
+오픈씨 벌크 등록
+
+
 <img src="src/images/fortune-cat-neko.png" width="350">
 
 # bulk-upload-to-opensea
